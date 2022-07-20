@@ -2,4 +2,4 @@ image:
   file: .gitpod.Dockerfile
 tasks:
   - name: Node Version
-    command: node --v
+    command: node -v
