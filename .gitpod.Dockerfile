@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full-mysql
+FROM gitpod/workspace-mysql
 
 RUN sudo apt update -y
 
